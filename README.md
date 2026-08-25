@@ -1,4 +1,4 @@
-# Satria-Hadiansyah-1
+# Satria-Hadiansyah
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
