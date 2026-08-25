@@ -11,7 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">📚[ I'm currently]studying at Madiun State Polytechnic. <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 
