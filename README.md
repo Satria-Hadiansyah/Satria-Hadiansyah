@@ -11,8 +11,8 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently:studying at Madiun State Polytechnic. <br>🎯 goals:become an IT technician
- <br>🎲 Fun fact: I like eat</p>
+<p data-importer="text" align="left">📚 I'm currently:studying at Madiun State Polytechnic <br>🎯 goals:become an IT technician
+ <br>🎲 Fun fact: I am handsome</p>
 
 ###
 
